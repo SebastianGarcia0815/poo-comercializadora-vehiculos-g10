@@ -18,12 +18,11 @@ Primera parte del proyecto desarrollada con un enfoque académico y claro:
   - `Primera parte del Proyecto final.pdf` → Documento principal
 - `README.md` → Portada y guía del proyecto.
 
-✅ Revisión final completada — Primera parte lista para entrega.
-
-
 ---
 
 ### ✨ Créditos (trabajo en equipo)
 - **Sebastián:** creación del repositorio, estructura y subida del documento.  
 - **Geremy:** redacción y actualización del README principal.  
 - **Mateo:** verificación final del contenido y presentación.
+
+✅ Revisión final completada — Primera parte lista para entrega.
