@@ -18,6 +18,9 @@ Primera parte del proyecto desarrollada con un enfoque académico y claro:
   - `Primera parte del Proyecto final.pdf` → Documento principal
 - `README.md` → Portada y guía del proyecto.
 
+✅ Revisión final completada — Primera parte lista para entrega.
+
+
 ---
 
 ### ✨ Créditos (trabajo en equipo)
