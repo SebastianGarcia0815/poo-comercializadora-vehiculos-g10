@@ -45,9 +45,9 @@ Este documento ahora incluye:
 
 ### ✨ Créditos (trabajo en equipo)
 
-- **Sebastián:** creación del repositorio, organización de archivos y subida de la segunda parte del proyecto.  
-- **Geremy:** redacción y actualización del README principal, incluyendo el enlace a la segunda parte y su descripción.  
-- **Mateo:** verificación final del contenido, comprobación de enlaces y revisión de la presentación en GitHub.
+- **Sebastián:** creación del repositorio, organización de archivos, subida de la segunda parte del proyecto y creador del Diagrama de flujo.  
+- **Geremy:** redacción y actualización del README principal, incluyendo el enlace a la segunda parte y su descripción junto a nuevas estructuras en cuanto a la presentación de Github.  
+- **Mateo:** verificación final del contenido, comprobación de enlaces, revisión de la presentación en GitHub y creador del Pseudocodigo.
 
 
 ✅ Revisión final completada — Primera parte lista para entrega.
