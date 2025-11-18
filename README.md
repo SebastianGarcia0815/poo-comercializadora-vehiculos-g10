@@ -10,23 +10,25 @@ Segunda parte del proyecto construida sobre ese mismo enfoque:
 
 ## 📘 Segunda parte del proyecto
 
-👉 [Descargar o ver “Segunda parte del Proyecto final POO”](Segunda%20parte%20del%20Proyecto%20final%20Poo.pdf)
+👉 [Descargar o ver “Segunda parte del Proyecto final POO (S, M, G)”](Segunda%20parte%20del%20Proyecto%20final%20Poo%20S%2CM%2CG.pdf)
 
 Este documento ahora incluye:
 
-- **Fase 0 – Contextualización del proyecto**  
+💻 - **Fase 0 – Contextualización del proyecto**  
   5 preguntas respondidas sobre qué se debe hacer, qué se necesita y qué objetos intervienen.
 
-- **Fase I – Requerimientos del sistema**  
+💻 - **Fase I – Requerimientos del sistema**  
   9 grupos oficiales de requerimientos documentados con:  
   *Nombre, Descripción, Entradas y Salidas.*
 
-- **Fase II – Diseño de clases (POO)**  
+💻 - **Fase II – Diseño de clases (POO)**  
   - Lista de sustantivos del enunciado transformados en clases candidatas.  
   - Representación gráfica simplificada del diagrama de clases.  
   - Descripción de las clases principales (atributos y métodos).  
   - Tabla de documentación de atributos:  
     *Nombre de la clase, Nombre del atributo, Nombre de codificación y Objetivo.*
+  - Un **diagrama de flujo** del sistema.
+  - Un **pseudocódigo** del proceso desde el prospecto hasta la venta y los reportes.
 
 ---
 
