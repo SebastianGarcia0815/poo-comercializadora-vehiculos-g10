@@ -48,6 +48,7 @@ Este documento ahora incluye:
 - **Sebastián:** creación del repositorio, organización de archivos, subida de la segunda parte del proyecto y creador del Diagrama de flujo.  
 - **Geremy:** redacción y actualización del README principal, incluyendo el enlace a la segunda parte y su descripción junto a nuevas estructuras en cuanto a la presentación de Github.  
 - **Mateo:** verificación final del contenido, comprobación de enlaces, revisión de la presentación en GitHub y creador del Pseudocodigo.
+(Cada uno aporto un total de 3 clases y en cuanto a los demas detalles del proyecto, nos reunimos en una casa para redactar el resto del documento y hacer las correcciones) 
 
 
 ✅ Revisión final completada — Primera parte lista para entrega.
