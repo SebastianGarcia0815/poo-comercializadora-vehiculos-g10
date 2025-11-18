@@ -3,6 +3,9 @@
 Primera parte del proyecto desarrollada con un enfoque académico y claro:  
 **Fase 0 y Fase I** – Entendemos el contexto, organizamos los requerimientos y preparamos la base del sistema.
 
+Segunda parte del proyecto construida sobre ese mismo enfoque:  
+**Fase II** – Diseñamos las clases del sistema para la comercializadora de vehículos, definimos sus atributos y métodos, y dejamos un modelo orientado a objetos listo para llevar a código.
+
 ---
 
 ## 📘 Segunda parte del proyecto
